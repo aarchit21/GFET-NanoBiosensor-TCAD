@@ -22,7 +22,7 @@ functionalized with antibodies for antigen detection. Dirac voltage shift
 Archit Agrawal
 
 🔗 LinkedIn:
-[](https://www.linkedin.com/in/archit-agrawal-019040196)
+[Click here](https://www.linkedin.com/in/archit-agrawal-019040196)
 
 ## 📌 Conference
 IEEE APSCON – Graphene Nano-Biosensor Poster
