@@ -16,7 +16,7 @@ functionalized with antibodies for antigen detection. Dirac voltage shift
 
 ## 📁 Contents
 - /figures – Poster graphs
-- /docs – Paper PDF (optional)
+-  Paper PDF (optional)
 
 ## 👨‍🔬 Author
 Archit Agrawal
